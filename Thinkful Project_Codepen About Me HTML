@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Misanthropic Unicorn</title>
+    <link rel= "stylesheet" type="text/css" href="Thinkful Project_Codepen About Me CSS">
+    <link href='https://fonts.googleapis.com/css?family=Hind:700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:600' rel='stylesheet' type='text/css'>
+  </head>
+
+<body>
+
+
+  <header>
+      <h1>Some info about:</h1>
+      <div class="h2box">  
+        <h2>Joe the Misanthropic Unicorn</h2>
+        <div class="h2opacity"></div>
+      </div>
+  </header>
+
+
+  <div class="allcontent">
+    <div class="allcontentopacity"></div>
+  
+    <section>
+      <h3 class="h3special">Childhood:</h3>
+      <p>Joe the Misanthropic Unicorn was born sometime during the Battle of Nicopolis in 1396.  Little is known of his wanderings in the Ottoman Empire until his fateful meeting with the famed archeologist Heinrich Schliemann in January of 1873.</p>
+    </section>  
+
+    <section>
+      <h3>The Incident:</h3>
+      <p>The relationship between Joe and Heinrich's wife Sophia was always a troubled one.  After the discovery of the so-called “Jewels of Helen” the Troy dig site at Hissarlik, Joe and Sophia fought over who would be the one to model the find for the now famous photograph.</p>
+      <div class= "paragraphspacing"></div>
+      <p>Sophia won out as Joe didn't ultimately have the patience to sit still long enough for the long exposure process of the day.</p>
+    </section>
+
+    <div class="imagecenter">
+      <a href="https://en.wikipedia.org/wiki/Heinrich_Schliemann#Priam's Treasure"><img src="https://upload.wikimedia.org/wikipedia/en/5/52/Sophia_schliemann_treasure.jpg" class="imagecenterwidth imagecenterdetails"></a>
+    </div>
+
+    <section>
+      <p>The only known photograph of Joe - made with aid of several sedatives - was destroyed in the Great Museum Arson attacks of 1909.</p>
+    </section>
+
+    <div class="imagecenter">
+      <div class="imagecentercrop imagecenterdetails"></div>
+    </div>
+
+    <section>
+      <div class= "spacing"></div>
+      <p>No copies are known to have been made.</p>
+    </section>
+   
+    <section>
+      <h3>Death:</h3>
+      <p>Joe returned to obscurity shortly thereafter and died shortly after the dissolution of the Ottoman Empire in 1922.  Some speculate his fate was tied up with that of the Empire.</p>
+     <div class= "spacing"></div>
+    </section>
+
+  </div>
+
+  
+  <footer>
+    <div class="h2footerbox">  
+      <h2>All this information is true and verifiable.</h2>
+      <div class="h2opacity"></div>
+    </div>
+    <h1>But these links are only decorative</h1>
+    <div class="notsociallinkoverall">
+      <div class="notsociallinks facebookimage"></div>
+      <div class="notsociallinks twitteriamge"></div>
+      <div class="notsociallinks instagramimage"></div>
+    </div>
+  </footer>
+
+</body>
+</html>
